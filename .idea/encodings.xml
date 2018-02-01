@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/universal-image-loader-1.9.3.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/gaochun/myapplication/AppAplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/gaochun/myapplication/BaseFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/gaochun/myapplication/BeautyFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/gaochun/network/RequestManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/gaochun/view/AutoLoadRecyclerView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/gaochun/view/LoadFinishCallBack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_beauty.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_beauty.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_loading_large.png" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
